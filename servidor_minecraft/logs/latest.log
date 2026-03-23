@@ -1,0 +1,61 @@
+[02:38:06] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[02:38:07] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.11
+[02:38:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/2da-vida-Febrero-sv/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:38:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:38:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element double_shulker_shells:entities/shulker of type minecraft:loot_table
+[02:38:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element bat_membranes:entities/bat of type minecraft:loot_table
+[02:38:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:entities/husk@minecraft:loot_table}.pools[2].entries[0]: Missing element husks_drop_sand:entities/husk of type minecraft:loot_table
+[02:38:21] [main/INFO]: Loaded 1470 recipes
+[02:38:21] [main/INFO]: Loaded 1608 advancements
+[02:38:21] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:38:21] [Server thread/INFO]: Loading properties
+[02:38:21] [Server thread/INFO]: Default game type: SURVIVAL
+[02:38:21] [Server thread/INFO]: Generating keypair
+[02:38:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:38:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:38:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:38:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:38:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:38:21] [Server thread/INFO]: Preparing level "world"
+[02:38:22] [Server thread/INFO]: Loading 100 persistent chunks...
+[02:38:22] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:22] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:23] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:23] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:24] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:24] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:26] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:26] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:27] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:27] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:28] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:28] [Server thread/INFO]: Preparing spawn area: 9%
+[02:38:29] [Server thread/INFO]: Preparing spawn area: 40%
+[02:38:29] [Server thread/INFO]: Time elapsed: 7240 ms
+[02:38:29] [Server thread/INFO]: Done (7.931s)! For help, type "help"
+[02:38:48] [Server thread/INFO]: Yazuu[/172.29.222.16:57781] logged in with entity id 199 at (703.3000000119209, 63.0, 1010.848801925165)
+[02:38:48] [Server thread/INFO]: Yazuu joined the game
+[02:39:41] [Server thread/INFO]: [Yazuu: Running function graves:config]
+[02:39:47] [Server thread/INFO]: [Yazuu: Running function graves:enable_allow_robbing]
+[02:40:17] [Server thread/INFO]: [Yazuu: Running function graves:give_grave_key]
+[02:40:49] [Server thread/INFO]: [Yazuu: Running function graves:enable_compatibility_mode]
+[02:40:55] [Server thread/INFO]: [Yazuu: Running function graves:list]
+[02:41:04] [Server thread/INFO]: [Yazuu: Teleported Yazuu to 693.500000, 63.000000, 996.500000]
+[02:42:03] [Server thread/INFO]: [Yazuu: Running function graves:creation/items/pick_up_item]
+[02:42:03] [Server thread/INFO]: Yazuu was killed
+[02:43:06] [Server thread/INFO]: [Yazuu: Running function graves:enable_allow_robbing]
+[02:43:58] [Server thread/INFO]: [Yazuu: Running function graves:disable_pick_up_xp]
+[02:44:15] [Server thread/INFO]: [Yazuu: Running function graves:opening/open_grave]
+[02:44:15] [Server thread/INFO]: [Yazuu: Function graves:opening/open_grave returned 1]
+[02:44:20] [Server thread/INFO]: [Yazuu: Running function graves:opening/open_grave]
+[02:44:20] [Server thread/INFO]: [Yazuu: Function graves:opening/open_grave returned 1]
+[02:44:36] [Server thread/INFO]: [Yazuu: Running function graves:opening/access_grave]
+[02:45:01] [Server thread/INFO]: [Yazuu: Running function graves:opening/use_grave_key_in_weapon.mainhand]
+[02:45:01] [Server thread/INFO]: [Yazuu: Function graves:opening/use_grave_key_in_weapon.mainhand returned 1]
+[02:47:47] [Server thread/INFO]: [Yazuu: Set own game mode to Creative Mode]
